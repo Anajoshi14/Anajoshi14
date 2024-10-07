@@ -17,4 +17,4 @@ I love to build softwares and games
 [![CockroachDB](https://www.vectorlogo.zone/logos/cockroachlabs/cockroachlabs-icon.svg)](https://www.cockroachlabs.com/)
 
 ### Conect With Me
-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anagha-joshi-41139b183/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaghajoshi1999@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anagha-joshi-41139b183/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaghajoshi1999@gmail.com)
