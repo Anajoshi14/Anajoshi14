@@ -5,7 +5,7 @@ I'm a backend developer passionate about building scalable systems, clean APIs, 
 - 🔭 Currently working with **Golang**, **Redis**, **PostgreSQL**, and **Terraform**  
 - 🌱 Exploring **Distributed Systems**, **System Design**, and **Kafka**  
 - 🧠 Practicing **Data Structures & Algorithms** to strengthen problem-solving  
-- 📫 Reach me at: anaghajoshi1999@gmail.com
+- 📫 How to reach me: anaghajoshi1999@gmail.com
 
 ---
 
